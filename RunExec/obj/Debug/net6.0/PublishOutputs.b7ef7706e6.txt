@@ -1,0 +1,5 @@
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/publish/RunExec
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/publish/RunExec.dll
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/publish/RunExec.deps.json
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/publish/RunExec.runtimeconfig.json
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/publish/RunExec.pdb

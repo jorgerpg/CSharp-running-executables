@@ -1,0 +1,15 @@
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/RunExec
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/RunExec.deps.json
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/RunExec.runtimeconfig.json
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/RunExec.dll
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/ref/RunExec.dll
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/bin/Debug/net6.0/RunExec.pdb
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.csproj.AssemblyReference.cache
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.AssemblyInfoInputs.cache
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.AssemblyInfo.cs
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.csproj.CoreCompileInputs.cache
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.dll
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/ref/RunExec.dll
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.pdb
+/home/jorge/Documentos/projetos/CSharp-running-executables/RunExec/obj/Debug/net6.0/RunExec.genruntimeconfig.cache
