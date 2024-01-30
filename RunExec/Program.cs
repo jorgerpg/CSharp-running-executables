@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Directory where the C# program's executable is located
+        // Get the directory where the C# program's executable is located
         string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
 
         // Name of the C program executable
@@ -38,6 +38,8 @@ class Program
         try
         {
             process.Start();
+            
+            // Wait for the C program to finish before continuing with the C# program
             process.WaitForExit();
         }
         catch (Exception ex)
